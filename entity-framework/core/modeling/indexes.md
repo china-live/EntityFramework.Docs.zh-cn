@@ -48,7 +48,7 @@ public class Blog
 }
 ```
 
-此外可以指定索引应是唯一的这意味着任何两个实体可以具有的给定属性的相同值。
+此外可以指定索引应是唯一的，这意味着没有两个实体可以具有的给定属性的相同值。
 
 <!-- [!code-csharp[Main](samples/core/Modeling/FluentAPI/Samples/IndexUnique.cs?highlight=3)] -->
 ``` csharp
